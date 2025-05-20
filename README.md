@@ -47,7 +47,7 @@ aws configure
 ### **2️⃣ Clone the Project**  
 
 ```sh
-git clone https://github.com/NotHarshhaa/AWS-Terraform-Workshop.git
+git clone https://github.com/Haswanthkondamadugula/AWS-Terraform-Workshop.git
 cd AWS-Terraform-Workshop
 ```
 
